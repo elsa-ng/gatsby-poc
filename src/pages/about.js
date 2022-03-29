@@ -3,9 +3,9 @@ import Layout from "../components/layout";
 
 const AboutPage = () => {
   return (
-    <Layout pageTitle="About Me">
+    <Layout pageTitle="About Little Round Head">
       <p>
-        Hi there! I'm the proud creator of this site, which I built with Gatsby.
+        Little round head is a raccoon plush that joined the family back in around 2015.
       </p>
     </Layout>
   );
