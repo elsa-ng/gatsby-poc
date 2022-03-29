@@ -11,7 +11,8 @@ module.exports = {
       options: {
         sassOptions: {
           includePaths: ["./node_modules"],
-        }
+        },
+        useResolveUrlLoader: true,
       },
     }
   ],

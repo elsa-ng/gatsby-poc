@@ -15,6 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@ontario-digital-service/ontario-design-system-global-styles": "^1.0.0",
     "gatsby": "^4.10.3",
     "gatsby-plugin-image": "^2.10.1",
     "gatsby-plugin-sass": "^5.10.2",
@@ -23,5 +24,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sass": "^1.49.9"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^5.0.0"
   }
 }
